@@ -1,0 +1,32 @@
+.page{
+    
+
+    h2,h3{
+        color: rgb(180, 72, 72);
+    }
+
+    .btn-outline-secondary{
+        position:absolute;
+        display: flex;
+        align-items: center;  
+    }
+
+
+    .editProduct-wrapper, .addProduct-wrapper{
+        
+        form{
+           label{
+               text-align: center;
+               width:100%;
+            }
+            input{
+                display:block;
+            }
+
+            .btn-outline-primary{
+                display:block;
+                margin: 0 auto;
+            }
+        }
+    }
+}
