@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Demo: jocular-belekoy-5368dd.netlify.app
+
 ## General info
 
 Typescript-React application published on GitHub as requested by the recruiter. 
