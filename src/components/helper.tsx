@@ -2,7 +2,7 @@ export const baseUrl:string = 'https://newdemostock.gopos.pl/'
 export const organizationID:string='219'
 export const header={
   'Content-Type': 'application/json',
-  'Authorization' : 'fd9ba9e1-0788-4e8f-ac46-a43df43e205e'
+  'Authorization' : `${process.env.REACT_APP_AUTHORIZATION}`
 }
 
  
